@@ -54,33 +54,10 @@
   </ol>
 
   <form action="/enviar-respuesta">
+    <label for="interior"><input type="radio" id="interior" name="interior-exterior">Interior </label>
+    <label for="exterior"><input type="radio" id="exterior" name="interior">Exterior </label>
 
-    <!-- botones de radio -->
-    <label for="interior">
-      <input type="radio" value="interior" id="interior" name="interior-exterior" checked>Interior </label>
-
-    <br>
-
-    <label for="exterior"><input type="radio" value="exterior" id="exterior" name="interior-exterior">Exterior</label>
-
-    <br>
-
-    <!-- casilla de verificación -->
-    <label for="carinoso"> <input type="checkbox" name="personalidad id="carinoso" checked>Cariñoso</label>
-   
-    <br>
-
-    <label for="perezoso"><input type="checkbox" name="personalidad" id="perezoso">Perezoso</label>
-
-    <br>
-
-    <label for="energico"><input type="checkbox" name="personalidad" id="energico">Enérgico</label>
-
-    <!-- texto y boton enviar -->
     <input type="text" placeholder="URL de la foto de tu gato" required>
-
-    <br>
-    
     <button type="submit">Enviar</button>
   </form>
 
