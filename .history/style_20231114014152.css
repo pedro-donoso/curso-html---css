@@ -1,3 +1,7 @@
+.lista-de-gatos {
+  color: chocolate;
+}
+
 p, 
 ul, 
 ol {
@@ -6,7 +10,5 @@ ol {
 
 li {
   color: blue;
-  font-size: 15px;
-  font-family: Verdana;
+  font-size
 }
-
