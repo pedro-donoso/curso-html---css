@@ -10,20 +10,16 @@ li {
   font-family: Verdana;
 }
 
-div{
-  background-color: crimson;
-}
-
 img {
-  padding: 30px;
-  margin: 20px 15px 10px 5px;
+  padding: 20px 15px 10px;
   background-color: yellow;
   border-width: 2px;
-  border-color: white;
+  border-color: black;
   border-style: solid;
   width: 200px;
 }
 
-
-
+div{
+  background-color: crimson;
+}
 
