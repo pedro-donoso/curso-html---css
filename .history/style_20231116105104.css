@@ -1,0 +1,24 @@
+p, 
+ul, 
+ol {
+  font-size: 20px;
+}
+
+li {
+  color: blue;
+  font-size: 15px;
+  font-family: Verdana;
+}
+
+img {
+  paddi
+  background-color: crimson;
+  width: 200px;
+  border: dashed;
+  border-radius: 50%;
+}
+
+div{
+  background-color: silver;
+}
+

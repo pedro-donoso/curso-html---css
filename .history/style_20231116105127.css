@@ -12,14 +12,14 @@ li {
 
 img {
   padding: 15px;
-  background-color: yellow;
-  border-width: 2px;
-  border-color: black;
-  border-style: solid;
+  background-color: crimson;
+  borde
   width: 200px;
+  border: dashed;
+  border-radius: 50%;
 }
 
 div{
-  background-color: crimson;
+  background-color: silver;
 }
 
