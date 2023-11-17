@@ -29,11 +29,7 @@ img[alt]{
 }
 
 [type="radio"]{
-  margin: 25px;
-}
-
-[type="checkbox"]{
-  margin: 20px;
+  margin: 5px;
 }
 
 

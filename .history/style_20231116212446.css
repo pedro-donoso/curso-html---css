@@ -28,12 +28,7 @@ img[alt]{
   border-radius: 50%;
 }
 
-[type="radio"]{
-  margin: 25px;
-}
+radio
 
-[type="checkbox"]{
-  margin: 20px;
-}
 
 

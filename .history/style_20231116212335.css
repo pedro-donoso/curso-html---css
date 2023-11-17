@@ -24,16 +24,9 @@ img {
   width: 200px;
 }
 
-img[alt]{
-  border-radius: 50%;
+imgg[alt]{
+  bo
 }
 
-[type="radio"]{
-  margin: 25px;
-}
-
-[type="checkbox"]{
-  margin: 20px;
-}
 
 
