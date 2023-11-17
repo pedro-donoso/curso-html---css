@@ -10,9 +10,6 @@ li {
   font-family: Verdana;
 }
 
-div {
-  background-color: magenta;
-}
 
 img {
   padding: 25px;
@@ -26,7 +23,7 @@ img {
 }
 
 a{
-  color: olivedrab
+  color: #ff00ff;
 }
 
 h2{

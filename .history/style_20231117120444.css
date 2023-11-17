@@ -11,7 +11,7 @@ li {
 }
 
 div {
-  background-color: magenta;
+  background-color: #00ffff;
 }
 
 img {
@@ -21,15 +21,14 @@ img {
   border-color: black;
   border-style: solid;
   width: 200px;
-  border-radius: 40%;
+  border-radius: 50%;
   border-width: 3px;
 }
 
 a{
-  color: olivedrab
+  color: #ff00ff;
 }
 
 h2{
   color: #ff0000;
 }
-
